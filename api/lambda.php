@@ -23,4 +23,4 @@ $app->handleRequest(Request::capture());
 */
 
 
-echo "PHP OK on Vercel";
+phpinfo();
